@@ -13,4 +13,7 @@ export default defineNuxtConfig({
   generate: {
     dir: 'docs'
   },
+    app: {
+    cdnURL: '/<repository>/'
+  },
 })
