@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: "20"
       # Pick your own package manager and build script
-      - run: npm install -g npm@latest
+      # - run: npm install -g npm@latest
       - run: npm ci
       - run: npx nuxi generate
       - name: Upload artifact
