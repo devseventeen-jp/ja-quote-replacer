@@ -13,4 +13,8 @@ export default defineNuxtConfig({
   generate: {
     dir: 'docs'
   },
+  ssr: false,
+  app: {
+    baseURL: '/ja-quote-replacer/',
+  },
 })
