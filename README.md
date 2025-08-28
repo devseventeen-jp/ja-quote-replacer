@@ -10,5 +10,5 @@ Convert the (full-width) double quotes in the Japanese text to vertical writing 
 
 Usage:　Access the link below, enter the text you want to convert, and click the convert button.
 
-https://devseventeen-jp.github.io/ja-quote-replacer/
+[ja-quote-replacer](https://devseventeen-jp.github.io/ja-quote-replacer/){:target="_blank"}
 
