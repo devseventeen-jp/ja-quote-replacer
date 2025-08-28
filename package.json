@@ -8,6 +8,9 @@
     "preview": "nuxt preview",
     "start": "nuxt start"
   },
+  "dependencies": {
+    "nuxt": "^3.10.0"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "nuxt": "^3.10.0",
