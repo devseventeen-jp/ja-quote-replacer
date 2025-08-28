@@ -1,3 +1,8 @@
 # ja-quote-replacer
+
 日本語テキストの(全角)ダブルクォートを縦書きに適したダブルミニュートに変換する
--- The function to convert the double-byte quotes in Japanese text to vertical writing-friendly double-minute quotes.
+
+Convert the (full-width) double quotes in the Japanese text to vertical writing suitable double minute quotes..
+
+---
+
