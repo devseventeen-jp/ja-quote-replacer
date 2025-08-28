@@ -17,8 +17,8 @@ jobs:
         with:
           node-version: "20"
       # Pick your own package manager and build script
-      - run: npm install -g npm@10
-      - run: npm ci
+      - run: npm install
+      - run: npm ci --include=dev
         env:
           NODE_ENV: development
       - run: npx nuxi generate
