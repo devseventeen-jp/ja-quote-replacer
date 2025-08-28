@@ -21,8 +21,6 @@ jobs:
       # Pick your own package manager and build script
       - run: npm install
       - run: npm ci --include=dev
-        env:
-          NODE_ENV: development
       - run: npm run generate
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
